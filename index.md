@@ -6,12 +6,17 @@
 <img src="images/eece5550.png"/>
 
 ---
-[Robots Cooperatively Carrying Suspended Loads](/ollyrobot)
+
+[Safe and Coordinated Hierarchical Receding Horizon Control for Mobile Manipulators](/mobilemanipulator0)
+<img src="images/research.png"/>
+
+---
+[Robots Carrying Suspended Loads](/olly)
 <img src="images/olly.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[MPC Control for Multiple Quadcopters Cooperatively Carrying Object](/mpcdrones)
+<img src="images/me231a.png"/>
 
 ---
 

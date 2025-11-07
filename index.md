@@ -2,6 +2,12 @@
 
 ---
 
+[Monocular Depth Estimation](/depthestimation)
+
+<image src="images/depth.png"/>
+
+---
+
 [Multi-Agent Trajectory Planning using Bayesian Optimization](/multiagentplanning)
 
 <img src="images/eece5550.png"/>
